@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch Presbyterian vveather-cock pearch'd upon our English steeples: or, An historicall narration of the variable chances and changes of Presbyterian government in Scotland, and may consequently be in England. With The churches deformation. To the tune of Tom of Bedlam.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94275</idno><idno type="EEBO-CITATION">99862299</idno>
+  <idno type="VID">114453</idno>
+  <idno type="EEBO-PROQUEST">2248522594</idno>
+  
+            <idno type="STC">Wing S960</idno>
+            <idno type="STC">Thomason E401_37</idno>
+            <idno type="STC">ESTC R201805</idno>
+            <idno type="PROQUEST">99862299</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862299e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch Presbyterian vveather-cock pearch'd upon our English steeples: or, An historicall narration of the variable chances and changes of Presbyterian government in Scotland, and may consequently be in England. With The churches deformation. To the tune of Tom of Bedlam.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "Aug: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114453:1"/>
+            <pb facs="tcp:114453:1"/>
+            <p>THE Scotch Presbyterian WEATHER-COCK Pearch'd upon our English Steeples: OR, <hi>An Historicall Narration of the variable Chances and Changes</hi> OF Presbyterian Government in Scotland, and may consequently be in England.</p>
+            <p>WITH THE Churches Deformation.</p>
+            <p>
+               <hi>To the tune of</hi> Tom of Bedlam.</p>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114453:2"/>
+            <pb n="1" facs="tcp:114453:2"/>
+            <head>The Scotch Presbyterian VVeathercock Pearcht upon our English Steeples.</head>
+            <p>AMongst all the reasonable, sensible and senselesse creatures under the Moon, all are subject to changings and variations as the Moon is: The Poet <hi>Ovid</hi> did artificially metamorphize and trans<g ref="char:EOLhyphen"/>forme men to <hi>Wolves, Dogs, Bears, Owles, Apes, Magpies, &amp;c.</hi> but the strange attempt of our <hi>Scottish</hi> Brethren upon us English silly souls, goes beyond all fiction or anie transmutation since the Creation; I did never read of a man that was big with child, a bull great with calfe, or a gander that laid a goose-egge, for it is monstrous and against nature, that anie male creature should assume the office of a female to conceive and bring forth.</p>
+            <p>Now the question is, whether a Scottish <hi>Weathercock</hi> be a male or a female bird, and moreover, wherefore so many thousand of Wea<g ref="char:EOLhyphen"/>thercocks from <hi>Scotland,</hi> would make us all VVoodcocks in <hi>England.</hi> This short following relation will show the inconstancie and forget<g ref="char:EOLhyphen"/>fulnesse of too manie of our too deare Brethren of that neighbour-Nation, and whosoever will but consider what he reads, shall perceive their most audacious presumption in pearching their Presquiterian Weathercocks upon our steeples: If their stomacks cannot endure <hi>Our Father</hi> in their Churches, we desire them not to thrust him out of ours; if they have no mind to be honest men, and loyall Subjects to their Soveraigne, we request them to suffer us to be so; if they will be Presbyterians, we intreat them to give us leave to be Protestants if they doe distaste our Church-Government, we doe as much difrelish theirs: And if this following discourse will not satisfie them, I doe wish a fair riddance of them hence.</p>
+            <p>The greatest number of men are out of the way, so that it is per<g ref="char:EOLhyphen"/>swasion and not inforcement that must bring them in, the Patriarch and earthly father of the second world (Noah') said, God perswade thee <hi>Japhet</hi> to dwell in the Tents of <hi>Sem,</hi> which shewes, that the con<g ref="char:EOLhyphen"/>sciences of men must be perswad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and not compelled. Then by what authoritie or power, can our Church, and Kingdome of England be forcibly and compulsively yoaked and subjected to the <hi>Scottish</hi> Pres<g ref="char:EOLhyphen"/>bitery, and, as if our Church and learned Clergie were so ignorant in the grounds and principles of Christian Religion, that they must all returne back to their Horn-books, or A, B, C, or (which is worse) to
+<pb n="2" facs="tcp:114453:3"/> a new-moulded, never before heard of strange thing, called, a Directorie.</p>
+            <p>If it were possible to perswade our deare Brethren of <hi>Scotland</hi> to turn their Blew Bonnets into considering Caps, they would (with some little shame if they had any) remember old courtesies and fa<g ref="char:EOLhyphen"/>vours done to them formerly in the Reigne of Queen <hi>Elizabeth</hi> when as her Majestie (in Christian pietie and Princely compassion) with the expence of much treasure, and too much noble and valiant <hi>English</hi> blood, she aided that Kingdome against the invasion of the <hi>French,</hi> whose Armies had then taken strong footing in <hi>Scotland,</hi> with an in<g ref="char:EOLhyphen"/>tent to enslave the whole Nation under the servitude of <hi>France,</hi> and inforce their consciences to the Doctrine of the Romish Church: All these miseries were prevented by Gods great mercies, who gra<g ref="char:EOLhyphen"/>tiously made the <hi>English-men</hi> the instruments to expulse the <hi>French</hi> Forces out of <hi>Scotland.</hi> In those daies the <hi>Scots</hi> did thankfully ac<g ref="char:EOLhyphen"/>knowledge their meanes of deliverance (under God) to be the love, bountie, and valour of this Nation, and to expresse their gratitude the more, it was enacted in a Parliament at <hi>Edenborough</hi> that publique Prayers, and thanksgiveings, to God, for the late atchieved victories and future blessings upon the Queen and Subjects should be daily said, which was accordingly performed in all the Churches throughout the <hi>Scottish</hi> Kingdome, which was also printed there, and inserted into their Liturgie, or Service-Booke; moreover the English Booke of Common-prayer was sent from us to them, and by them it was uni<g ref="char:EOLhyphen"/>versally and thankfully received, and subscribed unto by the most learnedest men of that time in that Kingdome, two of which were, are, and will be famous, namely, M. <hi>George Buchanan</hi> and M. <hi>John Knox,</hi> and because the world shall take notice of their forgetfulnesse of good turnes, I will set downe word for word what their own Hi<g ref="char:EOLhyphen"/>stories do relate concerning these matters.</p>
+            <p>In the yeare of our Lord, 1560. and the second or third of Queen <hi>Elizabeths</hi> Reigne, <hi>Buchanan</hi> neer the latter end of his 19. Booke, doth testifie in plain words as followeth; <hi>Scoti ex servitute Gallica, Anglorum auxiliis liberati eisdem ritibus cùm Anglis communibus sub<g ref="char:EOLhyphen"/>scripserunt.</hi>
+            </p>
+            <p>Which words do import that the <hi>Scots</hi> received the first refor<g ref="char:EOLhyphen"/>mation of their Religion, and their freedome from the French servitude by the English ayd and assistance, both by Land, and, by Sea, (Gratis) and subscribed, to the <hi>Engli</hi> Service Book.
+<pb n="3" facs="tcp:114453:3"/> And <hi>John Knox</hi> relates as much in his first Book of the Historie of the <hi>Kirk</hi> of <hi>Scotland,</hi> in which place the Reader may find these words fol<g ref="char:EOLhyphen"/>lowing, 111. in <hi>David Buchanans</hi> last Edition.</p>
+            <p>It is thought convenient, advised and ordayned, that in all Parishes of this Realme, the Common-Prayer Book be Read weekly on Sun<g ref="char:EOLhyphen"/>dayes and other Festivall dayes, publiquely in the Parish Churches, with the Lessons of the Old and New Testament conformed to the or<g ref="char:EOLhyphen"/>der of the Book of Common-Prayer. And if the Court of the Parishes be qualified, to cause them to read the same: And if they be not, or if they re<g ref="char:EOLhyphen"/>fuse that, the most qualified in the Parish use and read thesame:<note n="*" place="margin">This shewes that they favou<g ref="char:EOLhyphen"/>red In<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>endency then, which they oppose now.</note> secondly it is thought necessary that Doctrine, Preaching, and interpretation of Scriptures be had and used privately in quiet hou<g ref="char:EOLhyphen"/>ses, conventions of the people thereto, while afterward that God moved the Prince to publique preaching, by faithfull and true Ministers.</p>
+            <p>And thus much may suffice to shew that the <hi>Scots</hi> have neither manners or reason to inforce us to set their Weathercocks upon our steeples, neither do I lay this aspersion of their bold intrusion upon the whole Nation, for all the <hi>Scots</hi> are not Rebells or <hi>Presbyterians,</hi> no more then <hi>England</hi> is all Protestants, or English-men all loyall, the contrarie is apparantly seen, everie field and garden hath weeds amongst the <hi>herbs,</hi> and <hi>tares</hi> amongst the <hi>wheat,</hi> and our folly is wor<g ref="char:EOLhyphen"/>thy of derision for that we did so farre under-value and debase our selves to beg and buy mischiefe at such a deere rate out of <hi>Scotland,</hi> as if we had not villany enough of our owne, but must pray and pay our neighbours to bring us more then we had good use for, and to give more for it then it was worth: But herein our charity appeared, that though we needed not their assistance to ruine our selves, yet (to inrich themselves) they wanted our money: Thus much by way of digression.</p>
+            <p>
+               <hi>Anno Domini,</hi> 1560. in the moneth of June a peace was concluded between the <hi>English, French,</hi> and <hi>Scots,</hi> upon certaine Articles, and the <hi>French</hi> were to be carried home (out of <hi>Scotland</hi>) in <hi>English</hi> Bot<g ref="char:EOLhyphen"/>tomes at the Queen of Englands charge, which was accordingl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done, whereupon the <hi>English</hi> Armies all retreated, and a Parliament was held at <hi>Edenborough</hi> in November following, to settle a full agreement in all Ecclesiasticall and Civill affairs, which was according<g ref="char:EOLhyphen"/>ly kept.</p>
+            <pb n="4" facs="tcp:114453:4"/>
+            <p>But then the <hi>Scots</hi> turnes being served by the <hi>English,</hi> they con<g ref="char:EOLhyphen"/>ceived it a disparagement to their Nation to have such a marke of Ser<g ref="char:EOLhyphen"/>vitude remaine upon them as the English Religion; wherefore they made no scruple of conscience of that former Covenant, subscription and Religion, but proudly and perfidiously threw it away. Then they drew up a new book of Church Government and Religion of their owne, <hi>which is called the first, or Iohn Knox his Book of Discipline,</hi> which manner of Doctrine lasted 16. years, or as long as the Author of it lived. Now I desire the Reader to consider that our Religion, (being Protestant) was by us freely given to them, and in requitall they will force us to buy of them with mighty sums of money, their precious Pearles, Presbyterie, which if it were of God, then surely Gods Spirit is in it, and I am so farre from supposing those <hi>Scots</hi> to be <hi>Christs Apostles,</hi> that <hi>English-men</hi> should bee affraid and ashamed to imitate <hi>Simon Magus</hi> in offering to buy the Holy Ghost for mo<g ref="char:EOLhyphen"/>ney at too dear a price of our dear Brethren.</p>
+            <p>About the yeare 1579. one M. <hi>Andrew Melvill,</hi> (a very learned but a fierie violent spirited man) he came fresh from <hi>Geneva</hi> into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and brought in by subscription (without and against Authoritie) the pure <hi>Geneva</hi> plot of the Presbyterian Discipline, which hath been ever since the bane of that Crowne and Kingdome, as it will bee of this if not prevented, for it hath been the cause of this unhappy schism, difference, and dissention now between the Churches of both Nations.</p>
+            <p>But if they had kept their first Faith, Covenant and subscriptions, and reception of the English Service Book, there could now have been no pretence or colour of a new Covenant, disention or war between the two Churches and Nations.</p>
+            <p>The Presbyterian Covenant hath a back doore to goe out at when they please, it hath many meanders, turnings, windings, mazes, in<g ref="char:EOLhyphen"/>tricate Dedalian Ambiguites, mentall Reservations, like the equivo<g ref="char:EOLhyphen"/>cations of their deare Brethren the Jesuits. Let us therefore be carefull to keep them at home, we stand no more in need of them now, to blow the coles of contention and division; when we are in want of much trouble and mischiefe we will send for them, they will come at a beck (with some of our mony to boot) when we lack active spirits to stir us up to sheath our swords one in the bowels of another, or when we are in necessity to have the Kingdome drained of it's treasure, then we may have our deare Brethren (with small en<g ref="char:EOLhyphen"/>treaty) to command, lend their helping hands to cut our throats or
+<pb n="5" facs="tcp:114453:4"/> pick our purses, and (in a word) to rob us of our lives and estates. Therefore let us not suffer them to fish any more in our troubled wa<g ref="char:EOLhyphen"/>ters under pretence of we know not what, let us settle our King, Re<g ref="char:EOLhyphen"/>ligion, Lawes and Liberties, and let them studdie a new lesson to prove honest men to their native King, in their own country, and much good may their presbyterie doe them there, for it hath contentious distaste heare.</p>
+            <div type="song">
+               <head>The Church in child-bed: Or, a lamentable Dittie, shewing how after many violent pangs and throes in her three yeares travaile, she was delivered of a new birth, by the Men-Midwives of Reformation.</head>
+               <opener>To the tune of <hi>Thom. of Bedlam.</hi>
+               </opener>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>O All ye zealous Brethren,</l>
+                  <l>That long for alteration,</l>
+                  <l>Come here and behold</l>
+                  <l>In a new made mold</l>
+                  <l>The Map of Reformation.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Religion now is moulded,</hi>
+                  </l>
+                  <l>
+                     <hi>And in a new mint stamped,</hi>
+                  </l>
+                  <l>
+                     <hi>Being like an old boot,</hi>
+                  </l>
+                  <l>
+                     <hi>Set up in the foot,</hi>
+                  </l>
+                  <l>
+                     <hi>New underlaid and vamped.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Trudge now not to <hi>New-England,</hi>
+                  </l>
+                  <l>
+                     <hi>Geneva, France,</hi> nor <hi>Flanders,</hi>
+                  </l>
+                  <l>We may spare those labours,</l>
+                  <l>Thanks to our good neighbours,</l>
+                  <l>The South Scots and High-Landers.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Being full of fierie fervour,</l>
+                  <l>They itcht for reformation,</l>
+                  <l>Who'ld think eaten-meale</l>
+                  <l>Should kindle their zeale</l>
+                  <l>To such an inflammation?</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Next them to our Assemblies</l>
+                  <l>Let's give thanks, and not doubt it,</l>
+                  <l>Who simple paines took</l>
+                  <l>In making their Book,</l>
+                  <l>Having sate three years about it.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Though they have sate long brooding,</l>
+                  <l>At last they have hatcht some chicken,</l>
+                  <l>And by many helps</l>
+                  <l>Brought forth blind whelps,</l>
+                  <l>And shap'd them by long licking.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>And now delivered safely,</l>
+                  <l>From travell, and still living,</l>
+                  <l>Me thinks the citie,</l>
+                  <l>In pious pitie,</l>
+                  <l>Should appoint a day of Thanksgiving.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Thus doth the world admire now</l>
+                  <l>Your Book, and to your praise, knowes,</l>
+                  <l>Y'have more paines taken,</l>
+                  <l>Then old Frier Bacon,</l>
+                  <l>In framing that head of Brazen-Nose.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>The Niceterian Synod</l>
+                  <l>With those Septuagint Rabbies,</l>
+                  <l>To our new Writers</l>
+                  <l>Are but Sheep-biters,</l>
+                  <l>And meer S. <hi>Bartholomew</hi> Babies.</l>
+               </lg>
+               <lg n="9">
+                  <pb n="6" facs="tcp:114453:5"/>
+                  <head>9</head>
+                  <l>To them the Fathers are but</l>
+                  <l>
+                     <hi>Mundungus</hi> to <hi>Varinus,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>or they will out-look</l>
+                  <l>And baffle without book</l>
+                  <l>Either <hi>Austine,</hi> or <hi>Thom. Aquinas.</hi>
+                  </l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>What though they were nere at Cambridge</l>
+                  <l>D'ye thinke them Dunces? Fie no,</l>
+                  <l>They scorne the knowledge</l>
+                  <l>Of a paultry Colledge,</l>
+                  <l>Who have it <hi>Jure Divino.</hi>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Book learning's out of date now,</l>
+                  <l>Your only Mode in fashion</l>
+                  <l>Is standing-hood wink't</l>
+                  <l>To pray by instinct,</l>
+                  <l>And preach by inspiration.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>He that can tell you a story,</l>
+                  <l>Although there's nothing in't Sir,</l>
+                  <l>And boldly out-stand</l>
+                  <l>Three glasses of fand,</l>
+                  <l>O there's a man in print Sir.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>Each Dolthead now's a Deacon</l>
+                  <l>Before he can read his Psalter,</l>
+                  <l>And every Hobler,</l>
+                  <l>hat's scarce a good Cob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</l>
+                  <l>Forsooth is a Translator.</l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>The Sisters may exercise too</l>
+                  <l>Their gifts in their Vocation,</l>
+                  <l>And be in conjunction</l>
+                  <l>With their brotherly function,</l>
+                  <l>For spirituall propagtior.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>The Prela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s are deposed</l>
+                  <l>By scoundrills and backbiters,</l>
+                  <l>When they dare pull downe</l>
+                  <l>King <hi>Charles</hi> his Crowne</l>
+                  <l>D'ye thine they'le spare your <hi>Miters,</hi>
+                  </l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>The Brethren saw your blindnesse,</l>
+                  <l>Y'are ecclipsed now with vapours,</l>
+                  <l>Their rush-farthing light</l>
+                  <l>Will shine more bright</l>
+                  <l>Then all your torches and tapers.</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>Your Book of Common-Prayer</l>
+                  <l>Was the Idoll of great Dagon,</l>
+                  <l>The Apocrypha too</l>
+                  <l>Is counted lesse true</l>
+                  <l>Then the sight of S. <hi>George</hi> and the Dragon.</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>He now that buries with prayer,</l>
+                  <l>Or weds with a ring, his sentence</l>
+                  <l>Cannot be evaded,</l>
+                  <l>He shall be degraded</l>
+                  <l>And stand in the Stool of Repentance.</l>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <l>Canonicall coat and vestment</l>
+                  <l>With hood and Surplice on it,</l>
+                  <l>Is damn'd by the vote</l>
+                  <l>And of lesse note</l>
+                  <l>Then a Scotch Pled or blew Bonnet.</l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>The Font too now's but a fable</l>
+                  <l>Like the golden fleece of <hi>Jason,</hi>
+                  </l>
+                  <l>'Tis no great matter</l>
+                  <l>Whether now in a platter</l>
+                  <l>We are christened, or in a bason,</l>
+                  <l>
+                     <hi>Thus is Religion moulded,</hi>
+                  </l>
+                  <l>
+                     <hi>And in a new mint stamped,</hi>
+                  </l>
+                  <l>
+                     <hi>Being like an old boot</hi>
+                  </l>
+                  <l>
+                     <hi>Set up in the foot</hi>
+                  </l>
+                  <l>
+                     <hi>New underlaid and vamped.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
